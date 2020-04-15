@@ -7,4 +7,14 @@ My Part in this Project is  create New Field for Add new Candidate and Show the 
 In this Peoject I used : 
 MVC archticture ( Model View Controller ) , Eclipse , Restful /Gax-RS , Maven,  MySql&JPA , Html&Css , Json, JavaScript & Java Cooding Langauage
 
-before start this project you need to add the database data  , You Will found txt file contain the tables elements. and need to modify Mysql User & Password from persist file if it's not root and password Empty.
+# Vaalikone-OlioOhjelmointi
+
+before start this project you need to add the database data  , You Will found txt file contain the tables elements. and need to modify Mysql User & Password from persist file if it's not root and password Empty
+
+
+this project main work is  done by school.
+
+candidate adding &  data control  feature is done   by me.
+
+In this Peoject I used : 
+MVC archticture ( Model View Controller ) , Eclipse , Restful /Gax-RS , Maven,  MySql&JPA , Html&Css , Json, JavaScript & Java Cooding Langauage
